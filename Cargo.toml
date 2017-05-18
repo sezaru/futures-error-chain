@@ -1,0 +1,8 @@
+[package]
+name = "futures-error-chain"
+version = "0.1.0"
+authors = ["Eduardo B. Alexandre <sezdocs@gmail.com>"]
+
+[dependencies]
+error-chain = "*"
+futures = "*"
