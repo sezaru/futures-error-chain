@@ -2,6 +2,12 @@
 name = "futures-error-chain"
 version = "0.1.0"
 authors = ["Eduardo B. Alexandre <sezdocs@gmail.com>"]
+description = "A workaround until futures-rs and error-chain crates works out-of-box with each other."
+
+homepage = "https://github.com/sezaru/futures-error-chain"
+repository = "https://github.com/sezaru/futures-error-chain"
+
+license = "MIT/Apache-2.0"
 
 [dependencies]
 error-chain = "*"
