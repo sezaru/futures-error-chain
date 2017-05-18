@@ -1,6 +1,8 @@
 # futures-error-chain
 This library is a workaround until `futures-rs` and `error-chain` crates works out-of-box with each other
 
+[![Crates.io](https://img.shields.io/crates/v/futures-error-chain.svg?maxAge=2592000)](https://crates.io/crates/futures-error-chain)
+
 ## Usage
 
 Just use like the `error-chain` crate, you run the `future_chain!` macro that will create the code needed to work with `error-chain` crate.
