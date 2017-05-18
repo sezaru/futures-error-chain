@@ -10,4 +10,4 @@ repository = "https://github.com/sezaru/futures-error-chain"
 license = "MIT/Apache-2.0"
 
 [dependencies]
-futures = "*"
+futures = "0.1.13"
