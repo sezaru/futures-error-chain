@@ -3,7 +3,7 @@ This library is a workaround until futures-rs and error-chain crates works out-o
 
 ## Usage
 
-Just use like the `error-chain` crate, you run the `future_chain!` macro that will create the code needed to work with `error-chain` create.
+Just use like the `error-chain` crate, you run the `future_chain!` macro that will create the code needed to work with `error-chain` crate.
 
 Example:
 ```rust
