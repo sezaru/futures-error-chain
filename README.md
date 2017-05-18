@@ -1,5 +1,5 @@
 # futures-error-chain
-This library is a workaround until futures-rs and error-chain crates works out-of-box with each other
+This library is a workaround until `futures-rs` and `error-chain` crates works out-of-box with each other
 
 ## Usage
 
