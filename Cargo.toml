@@ -10,5 +10,4 @@ repository = "https://github.com/sezaru/futures-error-chain"
 license = "MIT/Apache-2.0"
 
 [dependencies]
-error-chain = "*"
 futures = "*"
